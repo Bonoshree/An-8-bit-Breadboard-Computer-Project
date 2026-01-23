@@ -13,11 +13,11 @@ All functional units, including registers, ALU, control circuitry, and memory, a
 
 The main purpose of this project is to develop practical understanding of:
 
-- Hardware-level operation of a computer system  
-- Movement of data and execution control inside a CPU  
-- Timing behavior of clock-driven digital circuits  
-- Instruction processing and micro-level control actions  
-- Communication between modules using a shared data bus  
+- Hardware-level operation of a computer system.  
+- Movement of data and execution control inside a CPU.  
+- Timing behavior of clock-driven digital circuits.  
+- Instruction processing and micro-level control actions.  
+- Communication between modules using a shared data bus. 
 
 ---
 
