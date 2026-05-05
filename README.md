@@ -1,6 +1,7 @@
 #  An 8-bit Breadboard Computer-Project
 
 A fully functional 8-bit breadboard computer built using discrete TTL logic, inspired by Ben Eater’s series, demonstrating the fundamentals of computer architecture and digital system design.
+![image alt](https://github.com/Bonoshree/An-8-bit-Breadboard-Computer-Project/blob/main/8-bit%20breadboard%20computer.jpg?raw=true)
 
 ---
 
